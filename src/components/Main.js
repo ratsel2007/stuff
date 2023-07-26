@@ -1,9 +1,13 @@
+import dayjs from "dayjs";
+import 'dayjs/locale/ru';
+import { ItemBox } from "./ItemBox";
+
 export const Main = () => {
     const people = [
         {
             "name": "Тогушев",
-            "startDate": "06.11.2012",
-            "officerDate": "06.11.2012",
+            "startDate": "11-06-2012",
+            "officerDate": "11-06-2012",
             "шапка-ушанка": 2,
             "костюм летний": 3,
             "галстук": 6,
@@ -12,12 +16,21 @@ export const Main = () => {
     ]
 
     const rules = [
-        {
-            "шапка-ушанка": [36, 1],
-            "костюм летний": [24, 1],
-            "галстук": [12, 2],
-            "рубашка": [12, 2]
-        }
+            {"name": "шапка-ушанка", "duration": 36, "count": 1},
+            // {"name": "костюм летний", "duration": 24, "count": 1},
+            // {"name": "галстук", "duration": 12, "count": 2},
+            // {"name": "рубашка", "duration": 12, "count": 2},
+
     ]
-    return <div>Main</div>
+
+// const date = dayjs(people[0].startDate).add(24, 'month');
+// console.log(date);
+
+    return <div>
+        {
+            rules.map((item, index) => {
+                return <ItemBox key={index} name={item.name} duration={item.duration} count={item.count}/>
+            })
+        }
+        </div>
 }

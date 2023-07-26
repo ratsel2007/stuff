@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.item {
+  width: 20px;
+  height: 20px;
+  border: 1px solid red;
+  cursor: pointer;
+}
+
+.item-box {
+  display: grid;
+  gap: 10px;
+}
+
+.item-line {
+  display: flex;
+  gap: 20px;
+}
+button {
+  width: 130px; 
+}
+
+.grid {
+  display: grid;
+  gap: 5px;
+}
+
+.red {
+  color: red;
+  font-weight: 700;
+}
