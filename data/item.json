@@ -3,179 +3,379 @@
         {
             "шапка-ушанка": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
             "фуражка": {
                 "count": 1,
-                "durtation": 48
+                "duration": 48
             },
             "пилотка": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "куртка демисезонная/зимняя": {
                 "count": 1,
-                "durtation": 72
+                "duration": 72
             },
             "китель": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "куртка п/ш": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "брюки": {
                 "count": 2,
-                "durtation": 36
+                "duration": 36
             },
             "рубашка": {
                 "count": 2,
-                "durtation": 36
+                "duration": 36
             },
             "галстук": {
                 "count": 2,
-                "durtation": 12
+                "duration": 12
             },
             "перчатки п/ш": {
                 "count": 1,
-                "durtation": 12
+                "duration": 12
             },
             "кепка летняя": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
             "костюм летний": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
             "костюм зимний": {
                 "count": 1,
-                "durtation": 48
+                "duration": 48
             },
             "белье х/б": {
                 "count": 4,
-                "durtation": 12
+                "duration": 12
             },
             "белье зимнее": {
                 "count": 1,
-                "durtation": 12
+                "duration": 12
             },
             "носки х/б": {
                 "count": 2,
-                "durtation": 12
+                "duration": 12
             },
             "носки п/ш": {
                 "count": 2,
-                "durtation": 12
+                "duration": 12
             },
             "полуботинки": {
                 "count": 1,
-                "durtation": 18
+                "duration": 18
             },
             "ботинки с в/б": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
-            "сапоги юфтеевые": {
+            "сапоги зимние": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
-            "ремень поясной": {
+            "ремень поясной (портупея)": {
                 "count": 1,
-                "durtation": 108
+                "duration": 108
             },
             "ремень брючный": {
                 "count": 1,
-                "durtation": 72
+                "duration": 72
             }
         }
     ],
-    "oficcerItemTime1": [
+    "officerItemTime1": [
         {
             "шапка-ушанка": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
             "фуражка": {
                 "count": 1,
-                "durtation": 48
+                "duration": 48
             },
             "пилотка": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "куртка демисезонная/зимняя": {
                 "count": 1,
-                "durtation": 60
+                "duration": 60
             },
             "китель": {
                 "count": 1,
-                "durtation": 24
+                "duration": 24
             },
             "куртка п/ш": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "брюки": {
                 "count": 2,
-                "durtation": 24
+                "duration": 24
             },
             "рубашка": {
                 "count": 3,
-                "durtation": 24
+                "duration": 24
             },
             "галстук": {
                 "count": 2,
-                "durtation": 24
+                "duration": 24
             },
             "кепка летняя": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "костюм летний": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
             "костюм зимний": {
                 "count": 1,
-                "durtation": 48
+                "duration": 48
             },
             "белье х/б": {
                 "count": 4,
-                "durtation": 12
+                "duration": 12
             },
             "белье зимнее": {
                 "count": 1,
-                "durtation": 12
+                "duration": 12
             },
             "носки х/б": {
                 "count": 2,
-                "durtation": 12
+                "duration": 12
             },
             "носки п/ш": {
                 "count": 2,
-                "durtation": 12
+                "duration": 12
             },
             "полуботинки": {
                 "count": 1,
-                "durtation": 12
+                "duration": 12
             },
             "ботинки с в/б": {
                 "count": 1,
-                "durtation": 36
+                "duration": 36
             },
-            "сапоги юфтеевые": {
+            "сапоги зимние": {
                 "count": 1,
-                "durtation": 36
+                "duration": 24
             },
-            "ремень поясной": {
+            "ремень поясной (портупея)": {
                 "count": 1,
-                "durtation": 120
+                "duration": 108
             },
             "ремень брючный": {
                 "count": 1,
-                "durtation": 60
+                "duration": 60
+            }
+        }
+    ],
+    "itemTime2": [
+        {
+            "name": "шапка-ушанка",
+            "count": 1,
+             "duration": 24
+        },
+        {  
+            "name": "фуражка",
+            "count": 1,
+            "duration": 48
+        },
+        {
+            "name": "пилотка",
+            "count": 1,
+            "duration": 36
+        },
+        {
+            "name": "куртка демисезонная/зимняя",
+            "count": 1,
+            "duration": 72
+        },
+        {
+            "name": "китель",
+            "count": 1,
+            "duration": 36
+        },
+        {
+            "name": "куртка п/ш",
+            "count": 1,
+            "duration": 36
+        },
+        {
+            "name": "брюки",
+            "count": 2,
+            "duration": 36
+        },
+        {
+            "name": "рубашка",
+            "count": 2,
+            "duration": 36
+        },
+        {
+            "name": "галстук",
+            "count": 2,
+            "duration": 12
+        },
+        {
+            "name": "перчатки п/ш",
+            "count": 1,
+            "duration": 12
+        },
+        {
+            "name": "кепка летняя",
+            "count": 1,
+            "duration": 24
+        },
+        {
+            "name": "костюм летний",
+            "count": 1,
+            "duration": 24
+        },
+        {
+            "name": "костюм зимний",
+            "count": 1,
+            "duration": 48
+        },
+        {
+            "name": "белье х/б",
+            "count": 4,
+            "duration": 12
+        },
+        {
+            "name": "белье зимнее",
+            "count": 1,
+            "duration": 12
+        },
+        {
+            "name": "носки х/б",
+            "count": 2,
+            "duration": 12
+        },
+        {
+            "name": "носки п/ш",
+            "count": 2,
+            "duration": 12
+        },
+        {
+            "name": "полуботинки",
+            "count": 1,
+            "duration": 18
+        },
+        {
+            "name": "ботинки с в/б",
+            "count": 1,
+            "duration": 24
+        },
+        {
+            "name": "сапоги зимние",
+            "count": 1,
+            "duration": 24
+        },
+        {
+            "name": "ремень поясной (портупея)",
+            "count": 1,
+            "duration": 108
+        },
+        {
+            "name": "ремень брючный",
+            "count": 1,
+            "duration": 72
+        }
+    ],
+    "officerItemTime2": [
+        {
+            "шапка-ушанка": {
+                "count": 1,
+                "duration": 24
+            },
+            "фуражка": {
+                "count": 1,
+                "duration": 48
+            },
+            "пилотка": {
+                "count": 1,
+                "duration": 36
+            },
+            "куртка демисезонная/зимняя": {
+                "count": 1,
+                "duration": 60
+            },
+            "китель": {
+                "count": 1,
+                "duration": 24
+            },
+            "куртка п/ш": {
+                "count": 1,
+                "duration": 36
+            },
+            "брюки": {
+                "count": 2,
+                "duration": 24
+            },
+            "рубашка": {
+                "count": 3,
+                "duration": 24
+            },
+            "галстук": {
+                "count": 2,
+                "duration": 24
+            },
+            "кепка летняя": {
+                "count": 1,
+                "duration": 36
+            },
+            "костюм летний": {
+                "count": 1,
+                "duration": 36
+            },
+            "костюм зимний": {
+                "count": 1,
+                "duration": 48
+            },
+            "белье х/б": {
+                "count": 4,
+                "duration": 12
+            },
+            "белье зимнее": {
+                "count": 1,
+                "duration": 12
+            },
+            "носки х/б": {
+                "count": 2,
+                "duration": 12
+            },
+            "носки п/ш": {
+                "count": 2,
+                "duration": 12
+            },
+            "полуботинки": {
+                "count": 1,
+                "duration": 12
+            },
+            "ботинки с в/б": {
+                "count": 1,
+                "duration": 36
+            },
+            "сапоги зимние": {
+                "count": 1,
+                "duration": 24
+            },
+            "ремень поясной (портупея)": {
+                "count": 1,
+                "duration": 108
+            },
+            "ремень брючный": {
+                "count": 1,
+                "duration": 60
             }
         }
     ]

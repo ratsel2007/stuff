@@ -26,7 +26,7 @@ export const SelectUserPanel = () => {
         setCurrentUserId(+event.currentTarget.value)        
     }
 
-    const handleSetCurrentUser = (id: number) => {     
+    const handleSetCurrentUser = (id: number) => ()  => {     
         const selectedUser = allUsers.filter(user => user.id === id)
 
         setCurrentUser(selectedUser[0])
